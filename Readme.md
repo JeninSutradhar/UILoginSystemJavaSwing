@@ -5,6 +5,8 @@ This Modern Login System is a Java Swing-based graphical user interface (GUI) ap
 ## How it Works
 The ModernLoginSystem consists of several Java classes:
 
+https://github.com/JeninSutradhar/UILoginSystemJavaSwing/assets/111521642/468a5359-acd9-4741-9544-5d75ca24ae7a
+
 - **Main.java:** The main class to start the application. It initializes the login page.
 - **IDandPasswords.java:** Stores predefined usernames and passwords in a HashMap.
 - **LoginPage.java:** Creates the login page with text fields for username and password, along with login and reset buttons. It validates user input and displays appropriate messages.
@@ -27,6 +29,6 @@ public IDandPasswords() {
 - **Reset Functionality:** Users can reset the input fields with the click of a button for convenience.
 - **Welcome Message:** Upon successful login, users are greeted with a welcome message and provided with a clickable link to navigate to a custom domain.
 
-## Usage
-[Insert video sample of the working application here]
+
+
 
