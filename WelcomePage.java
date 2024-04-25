@@ -9,7 +9,7 @@ import java.awt.Desktop;
  * This class creates a welcome page that appears when the user logs in
  * successfully. The page displays a message and a link to our website.
  * 
- * @author Apoorva Lal
+ * @author jeninsutradhar@gmail.com
  */
 public class WelcomePage {
     /**
